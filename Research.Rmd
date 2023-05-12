@@ -1,0 +1,45 @@
+---
+title: "Research"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+# Research objective
+
+For my PhD I am primarily researching 1. the mechanisms underlying exposure based therapies and how to augment them 2. how exercise is associated with mental health 3. how exercise can improve mental health. Furthermore I am currently focused on how exercise (mechanistically) can be used to improve treatment outcomes of PTSD using exposure therapy. Below are projects I am working on, and publications from my research.
+
+---
+
+# Projects
+
+### Repeated Exposure to Traumatic Memories
+
+_Rational:_ A widely accepted mechanism for exposure based therapies is [fear extinciton](https://www.nature.com/articles/4001939). Animal and human based models of exposure therapy focus on repeated exposure to stimuli associated with a condition stimulus. PTSD among other disorders treated by anxiety are based on repeated exposure to stimuli associated with their trauma. Additionally, exercise has been shown to improve exposure therapy in animal and human models. However there have been major discrepencies in the literature surrounding this.
+
+_Objective:_ The current study aims to work as preliminary data exploring if exercise can help augment fear extinction (lab model based exposure therapy) in a sample of those reporting inter partner violence. Future work aims to replicate this study using bio markers and fMRI to examine changes in the brain from exercise augmented fear extinction.
+
+### Correlates of Health Conditions and Physical Activity Level in U.S. Military Veterans 
+
+_Rational:_ Veterans report more health conditions (mental and physical) comapred to the US population. There is a lot of work showing how health conditions are negatively associated with physical activity levels (i.e., the amount people exercise). However, this is not as widely researched in U.S. military veterans among a wide range of health conditions.
+
+
+_Objective:_ The current study aims to show the odds of reporting physical activity levels (i.e., acording to health guidelines) based upon reporting physical and mental health conditions in a large sample of U.S. military veterans.
+
+### Interactions of Childhood Adversity and Stress During Covid on Psychopathology
+
+_Rational:_ Childhood adversity and current stress are associated with Current PTSD and OCD symptoms. The Covid 19 pandemic lead to high levels of mental health disorders. It is unknown if childhood adversity and stress from covid interaction on symptoms of psychopathology. 
+
+
+_Objective:_ The current study aims to examine if there are differences in the relationship between PTSD or OCD symptoms and stress from the covid 19 pandemic difer based upon the number of adverse childhood experiences (ACEs)
+
+---
+
+
+
+
+

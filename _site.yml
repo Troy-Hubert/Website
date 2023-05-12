@@ -1,0 +1,19 @@
+name: Troy's Site
+navbar:
+  title: Troy's Site
+  left:
+    - text: "Troy Hubert"
+      href: index.html
+    - text: "Code"
+      href: Code.html
+    - text: "Research"
+      href: Research.html
+    - text: "Clinical Work"
+      href: Clinical_Work.html
+    - text: "Art"
+      href: Art.html
+    - text: "Contact"
+      href: Contact.html
+    - text: "CV"
+      href: CV.html
+output_dir: "docs"

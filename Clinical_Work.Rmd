@@ -1,0 +1,53 @@
+---
+title: "Clinical Work"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+I currently am getting broad training psychotherapy for emotional disorders (e.g., anxiety disorders, and stressor disorders) substance use disorders, and attention deficit hyperactivity disorder (ADHD). The sections below show treatments and assessments that I have been trained in. 
+
+# Evidence Based Treatment
+
+### 1. [Cognitive Behavioral Therapy (CBT)](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral)
+
+CBT is a type of psychotherapy that primarily focuses on the thoughts, behaviors, feelings, and physiological sensations involved in psychiatric disorders. Interventions target these areas to help reduce the impact of psychopathology on patients lives. 
+
+### 2. [The Unified Protocol (UP)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5710228/)
+
+The UP is a transdiagnostic (i.e., treats anxiety, depression, and other disorders) CBT based treatment. Focuses on mindfulness, challenging challenging thinking errors (cognitive work), Emotion driven behaviors, and exposures to emotions, thoughts, and behaviors driving avoidance of emotion. 
+    
+### 3. [Cognitive-behavioral Modules for Personality Symptoms (COMPASS)](https://pubmed.ncbi.nlm.nih.gov/36595435/)
+
+COMPASS is a modulized treaatment for personality, which is mainly used for borderline personality disorder (BPD). However, Compass may also be effective in treating emotional disorders as well. Treatment focuses on values of client, skills for improving thinking (cognitions), skills for behaviors (emotion driven, relationship, and impulsive), and mindfulness. 
+    
+### 4. [Cognitive Processing Therapy (CPT)](https://www.apa.org/ptsd-guideline/treatments/cognitive-processing-therapy)
+
+CPT is a treatment for PTSD that focuses on the thoughts and emotions that impact peoples lives following trauma. Clients work on thinking traps, and thoughts pertaining to their life in response to the trauma. Treatment focuses on safety, trust, power, control, esteem and intimacy as it pertains to the traumatic experience. CPT can be used with exposures, but does not need to have an exposure part of it. 
+
+### 5. [Prolonged Exposure (PE)](https://www.apa.org/ptsd-guideline/treatments/prolonged-exposure#:~:text=Prolonged%20exposure%20is%20a%20specific,doing%20so%20reinforces%20their%20fear.)
+PE is a psychotherapy that primarily focuses on exposure therapy to treat PTSD. Both imaginal and in vivo exposures are used to help client overcome avoidance on trauma related stimuli. The aim of exposure therapy is to help clients reduce their avoidance and fear over things thaat remind them of their trauma, and promoting safety learning (i.e., I am safe in the moment / I am okay dispite what happened in the past).
+    
+# Assessment
+
+### [Diagnostic Interview for Anxiety, Mood, and OCD and Related Neuropsychiatric Disorders (DIAMOND)](https://giving.hartfordhospital.org/tolin-diamond-training-video/)
+The DIAMOND assessment is a psychodiagnostic assessment used to diagnosed psychopathology and neuropsychiatric disorders.
+
+### [Schedule for Affective Disorders and Schizophrenia for School-Age Children (K-SADS-PL)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2736874/)
+The K_SADS is a psychodyagnostic assessment used to diagnose psychopathology, neuropsychiatric disordersm, and behavioral disorders in children. 
+
+### [The Structured Clinical Interview for DSM-5® - Personality Disorders (SCID-5-PD) ](https://www.appi.org/products/structured-clinical-interview-for-dsm-5-scid-5)
+The SCID-5-PD is an psychodiagnostic assessment used to diagnose personality disorders according to DSM-5 criteria.
+
+### [The Mini International Neuropsych Interveiw (MINI)](https://harmresearch.org/mini-international-neuropsychiatric-interview-mini/)
+The MINI is a brief structured diagnostic interview for the major psychiatric disorders according to DSM-5 criteria. 
+

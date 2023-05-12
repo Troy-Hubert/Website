@@ -1,0 +1,99 @@
+---
+title: "Art"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+
+This page includes the art I make. Some if it is neuroscience related, and some of it is not. Enjoy!
+
+---
+
+# Digital (Vector and Rastor)
+
+![](images/Sliced.png){width=50%}
+
+### Sliced - 2023
+
+
+![](images/Dolimite.png){width=50%}
+
+### Dolimiti: Alta Via Una - 2023
+
+
+![](images/Bloom.png){width=50%}
+
+### Bloom - 2022
+
+![](images/Neuronal_Activity.jpeg){width=50%}
+
+### Neuronal Activity - 2021
+
+![](images/Germinate.jpg){width=50%}
+
+### Germinate; Colab with Trey Brasher - 2021
+
+![](images/Activity.jpg){width=50%}
+
+### Resting State - 2020
+
+![](images/Self_port.jpg){width=50%}
+
+### Self Portrait - 2020
+
+![](images/Harmony.jpg){width=50%}
+
+### Blooming In Harmony With Nature - 2020
+
+![](images/Mind_Manifest.jpg){width=50%}
+
+### Mind Manifesting - 2020
+
+![](images/Reaching.jpg){width=50%}
+
+### Reaching For Happiness - 2019
+
+---
+
+# Painting
+
+![](images/Colorful_Columbines.png){width=50%}
+
+### Colorful Columbines - 2022
+
+![](images/Carbon_Based_Lifeforms.png){width=50%}
+
+### Carbon Based Lifeforms - 2018
+
+![](images/Ankor_Wat.png){width=50%}
+
+### Ankor Wat - 2016
+
+--- 
+
+# Ceramics
+
+![](images/Grey.png){width=50%}
+
+![](images/Uncolored.png){width=50%}
+![](images/First_pot.png){width=50%}
+
+---
+
+
+# Generative 
+
+Come back soon!!!
+
+![](images/Hex_gen2.png){width=50%}
+
+### Hexs - From a Workshop
+
+
+--- 
+

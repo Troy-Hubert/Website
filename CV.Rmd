@@ -1,0 +1,8 @@
+---
+title: "CV"
+output: html_document
+date: "2023-05-12"
+---
+
+
+![](./images/4.10.2023_CV.Hubert.pdf){width=100% height=750}

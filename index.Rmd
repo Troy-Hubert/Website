@@ -1,0 +1,55 @@
+---
+title: "Troy Hubert"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **Who am I?**
+
+Hi! My name is Troy. Welcome to my website. I have created this webste as a way for me to display a diverse set of interests in my life. Below is a breif overview with links to pages with more detail!
+
+### Code
+
+I am currently learning R statistics with a goal of entering data science, and research in industry more broadly. On this website I display code I have used for manuscripts, classes, and self education! Through this website I am to:
+
+1. Improve transparency and replication of research results
+2. Improve access to stats in R.
+
+### Research
+
+I am a clinical psychology PhD student at the University of Kentucky in Dr. [Tom Adams Cognitive Neuroscience Behavior Therapy Lab.](https://cnbt.as.uky.edu/) I currently study if exercise can be used to improve treatments for PTSD (i.e., exposure therapy) by trying to tie the gab between preclinical and clinical research. My masters thesis is exploring how physical and mental health conditions correlate with physical activity level in U.S. military veterans. 
+
+### Clinical work
+
+As a therapist, I have mainly used transdiagonistic treatments for emotional related disorders. I have primarily treated anxiety disorders, depressive disorders, and PTSD. However, I have assessed and treated ADHD as well! I also have experience with psychodiagnostic assessments which I have used to diagnose a variety of mental health conditions. 
+
+### Art
+
+One of my main passions is art! I currently enjoy making digital (i.e., vector and raster), traditional (e.g., acrylic paint), and generative using PSj5 and R. Explore some of my art on this page. 
+
+### Contact
+
+This page includes my social media accounts, and best ways to reach me!
+
+</div>
+<div class="col-sm-6">
+
+## Troy Hubert, B.A.
+
+![](images/Home_page_me.png)
+
+</a>
+</div>
