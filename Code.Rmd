@@ -22,7 +22,7 @@ This page contains links to code used for manuscripts, projects, presentations, 
 
 ![](images/Thesis_FP.png){width=50%}
 
-This code shows the analyses (multinomial logistic regressions) ran for my masters thesis. This pproject looks at how physical activity levels correlate with physical and mental health conditions. 
+This code shows the analyses (multinomial logistic regressions) ran for my masters thesis. This project looks at how physical activity levels correlate with physical and mental health conditions. 
 
 --- 
 
@@ -30,7 +30,7 @@ This code shows the analyses (multinomial logistic regressions) ran for my maste
 
 ![](images/Co-occuring.png){width=50%}
 
-This code shows visualizes who attends a partial hospitalization program (PHP), diagnoses of the program, how patients progress through treatment, and the outcomes of their treatment programs. 
+This code shows visualizes who attends a partial hospitalization program (PHP), diagnoses of patients in the program, how patients progress through treatment, and the outcomes of their treatment programs. 
 
 ---
 
